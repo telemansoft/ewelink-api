@@ -40,7 +40,7 @@
     ]
   },
   "dependencies": {
-    "arpping": "github:skydiver/arpping",
+    "arpping": "github:telemansoft/arpping",
     "crypto-js": "^4.0.0",
     "delay": "^4.3.0",
     "node-fetch": "^2.6.0",
